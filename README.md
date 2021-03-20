@@ -1,2 +1,0 @@
-# TypeScriptRepo
-this is typescript
